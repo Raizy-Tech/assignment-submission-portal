@@ -1,0 +1,6 @@
+{
+  "name": "AssignFlow",
+  "description": "Assignment Submission Portal for students and professors to manage, submit, and grade coursework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
